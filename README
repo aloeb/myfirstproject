@@ -2,4 +2,11 @@ Here is a read me! Woo
 
 Another Change
 
+How to commit from command line:
+
+git add README
+git commit -m "Message"
+
+use git status to see the current status
+
 Here is a change from GitHub - use git pull origin master
