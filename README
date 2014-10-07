@@ -10,3 +10,6 @@ git commit -m "Message"
 use git status to see the current status
 
 Here is a change from GitHub - use git pull origin master
+
+To clone repository from github use:
+git clone http://github.com/Purdue-ACM-SIGAPP/chatExample.git
