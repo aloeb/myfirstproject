@@ -6,6 +6,7 @@ How to commit from command line:
 
 git add README
 git commit -m "Message"
+git push
 
 use git status to see the current status
 
